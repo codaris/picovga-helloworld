@@ -2,7 +2,7 @@
 
 ## About this Project
 
-This is a sample project for the [PicoSDK cmake](https://github.com/codaris/picovga-cmake) library to demonstrate a minimal project setup.  
+This is a sample project for the [PicoVGA cmake](https://github.com/codaris/picovga-cmake) library to demonstrate a minimal project setup.  
 
 ## Installing the PicoVGA library
 
